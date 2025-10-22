@@ -19,7 +19,7 @@ export default function Hero() {
                 <p className="mt-4 text-lg">Welcome to the place where I stash all my projects.</p>
                 <p>I mainly focus on MERN stack with NextJS but I explore other stacks too!</p>
                 <button className="mt-6 px-6 py-3 bg-blue-800 text-white rounded-xl hover:bg-blue-700 transition w-fit">
-                    View My Work →
+                    View All My Work →
                 </button>
                 </div>
             </div>

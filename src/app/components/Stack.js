@@ -20,7 +20,7 @@ export default function Stack() {
     ];
 
     return (
-        <section id="skills" className="py-10 bg-[#f4f7fb] text-center">
+        <section id="skills" className="py-10 text-center">
         {/* --- Badges --- */}
         <div className="flex flex-wrap justify-center gap-6 px-5">
             {[
@@ -51,9 +51,8 @@ export default function Stack() {
                 <Image
                     src={logo}
                     alt={logo}
-                    width={60}
-                    height={60}
-                    className="opacity-90 hover:opacity-100 transition"
+                    width={55}
+                    height={55}
                 />
                 </div>
             ))}
