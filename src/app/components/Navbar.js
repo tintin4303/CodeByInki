@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
      <nav className="sticky top-0 z-50  m-6 flex justify-between">
         <div>
-            <Link href={"#home"} className="flex glass-effect justify-between items-center h-10 md:h-12 px-3 md:px-8">
+            <Link href={"#home"} className="flex glass-effect justify-between hover:scale-105 transition duration-300 items-center h-10 md:h-12 px-3 md:px-8">
                 <h1 className="md:text-2xl text-xl font-bold">CodeBy<span className="text-blue-800">Inki</span></h1>
             </Link>
         </div>
